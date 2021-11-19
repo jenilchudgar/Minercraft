@@ -24,6 +24,7 @@ textures.append(stone_tex)
 textures.append(brick_tex)
 textures.append(dirt_tex)
 
+# Set Block Pic to the 1st
 block_pic = 1
 
 def update():
